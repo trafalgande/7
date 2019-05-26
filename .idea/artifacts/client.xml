@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="client">
+    <output-path>$PROJECT_DIR$/out/artifacts/client</output-path>
+    <root id="archive" name="client.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/client/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="7" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Лаба #7/javamail1_4_5/javamail-1.4.5/mail.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/javax.activation-api-1.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Лаба #7/jsch-0.1.55.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Downloads/lombok.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Лаба #7/jaf-1_1_1/jaf-1.1.1/activation.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Лаба #7/postgresql-42.2.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
