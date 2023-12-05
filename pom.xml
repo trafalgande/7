@@ -11,7 +11,7 @@
     <properties>
         <lombok>1.18.6</lombok>
         <activation-api>1.2.0</activation-api>
-        <huynia>1.2.3</huynia>
+        <huynia>1.2.13</huynia>
         <jdk.version>1.7</jdk.version>
     </properties>
     <dependencies>
